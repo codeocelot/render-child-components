@@ -1,0 +1,17 @@
+constructor	/Users/jrg/test/react/props/src/arrayAndIndex.js	/^  constructor(props){$/;"	function	line:7
+this.state.renderCount	/Users/jrg/test/react/props/src/arrayAndIndex.js	/^    this.state = {renderCount: 0}$/;"	property	line:9
+render	/Users/jrg/test/react/props/src/arrayAndIndex.js	/^  render () {$/;"	function	line:16
+ArrayAndIndex.propTypes.index	/Users/jrg/test/react/props/src/arrayAndIndex.js	/^ArrayAndIndex.propTypes = {$/;"	property	line:21
+render	/Users/jrg/test/react/props/src/App.js	/^  render() {$/;"	function	line:5
+constructor	/Users/jrg/test/react/props/src/ChangeValue.js	/^  constructor(props){$/;"	function	line:6
+state.arr	/Users/jrg/test/react/props/src/ChangeValue.js	/^    this.state = {$/;"	property	line:8
+arr.id	/Users/jrg/test/react/props/src/ChangeValue.js	/^    arr[0] = {id: this.state.arr[0].id + 1}$/;"	property	line:19
+render	/Users/jrg/test/react/props/src/ChangeValue.js	/^  render () {$/;"	function	line:24
+constructor	/Users/jrg/test/react/props/src/ArrayAndIndex.js	/^  constructor(props){$/;"	function	line:7
+this.state.renderCount	/Users/jrg/test/react/props/src/ArrayAndIndex.js	/^    this.state = {renderCount: 0}$/;"	property	line:9
+render	/Users/jrg/test/react/props/src/ArrayAndIndex.js	/^  render () {$/;"	function	line:22
+ArrayAndIndex.propTypes.index	/Users/jrg/test/react/props/src/ArrayAndIndex.js	/^ArrayAndIndex.propTypes = {$/;"	property	line:31
+constructor	/Users/jrg/test/react/props/src/OnlyElement.js	/^  constructor(props){$/;"	function	line:7
+this.state.renderCount	/Users/jrg/test/react/props/src/OnlyElement.js	/^    this.state = {renderCount: 0}$/;"	property	line:9
+render	/Users/jrg/test/react/props/src/OnlyElement.js	/^  render () {$/;"	function	line:20
+OnlyElement.propTypes.element	/Users/jrg/test/react/props/src/OnlyElement.js	/^OnlyElement.propTypes = {$/;"	property	line:29
